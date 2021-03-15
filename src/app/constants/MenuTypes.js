@@ -1,0 +1,2 @@
+export const SET_DISPLAY = 'SET_DISPLAY'
+export const SET_HIDDEN_CLASS = 'SET_HIDDEN_CLASS'
